@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
+
+
+[[deployment.targets]]
+name = "default"
+URL = "s3://jeremyritchie-demo-hugo?region=ap-southeast-2"
