@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "_91b05523e4ad841396a492344599e04b.demo.jeremyritchie.com.",
+        "Type": "CNAME",
+        "Value": "_8a691552a25f3499afa46be707b382cf.xmjnffzjyj.acm-validations.aws."
+    },
+    {
+        "Name": "_d68f31ea19a036af7a438f3473a853cf.www.demo.jeremyritchie.com.",
+        "Type": "CNAME",
+        "Value": "_ff0852f37ef71ed622a95d333d6243b9.xmjnffzjyj.acm-validations.aws."
+    }
+]
